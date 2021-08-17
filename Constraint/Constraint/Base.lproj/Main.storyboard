@@ -16,15 +16,15 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="TopLeft" axis="vertical" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="91E-if-Z9K">
+                            <stackView opaque="NO" contentMode="TopLeft" axis="vertical" distribution="fillEqually" spacing="19" translatesAutoresizingMaskIntoConstraints="NO" id="91E-if-Z9K">
                                 <rect key="frame" x="20" y="54" width="374" height="798"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Gp1-Qo-2OF">
-                                        <rect key="frame" x="0.0" y="0.0" width="374" height="389"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="374" height="389.5"/>
                                         <color key="backgroundColor" systemColor="systemGreenColor"/>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yDc-hf-q3z">
-                                        <rect key="frame" x="0.0" y="409" width="374" height="389"/>
+                                        <rect key="frame" x="0.0" y="408.5" width="374" height="389.5"/>
                                         <color key="backgroundColor" systemColor="systemRedColor"/>
                                     </view>
                                 </subviews>
